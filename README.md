@@ -1,3 +1,1 @@
 # Calculadora
-
-Megan la pro
