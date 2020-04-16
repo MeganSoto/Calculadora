@@ -28,7 +28,7 @@
 
   <html>
     <head>
-	  <link rel="stylesheet" type="text/css" href="MAQUETACION.css" />
+	 <link rel="stylesheet" type="text/css" href="MAQUETACION.css" />
     </head>
 	
 	<body>
@@ -38,7 +38,7 @@
 	</div>
 	</header>
  <section>
- <div align="center" id="IGUAL">
+    <div align="center" id="IGUAL">
   <p><?php echo $resultado; ?> </p>
   </section>
 	</body>
