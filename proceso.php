@@ -7,12 +7,12 @@
 
     if($op==1)
 	{
-    $resultado=($valor1+$valor2);
+    $resultado=($valor1 + $valor2);
 	}
 
     if($op==2)
 	{
-      $resultado=($valor1-$valor2);
+      $resultado=($valor1 - $valor2);
 	}
 
     if($op==3)
