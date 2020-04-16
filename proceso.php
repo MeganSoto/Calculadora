@@ -17,7 +17,7 @@
 
     if($op==3)
 	{
-       $resultado= ($valor1*$valor2);
+       $resultado= ($valor1 * $valor2);
 	}
 
     if($op==4)
