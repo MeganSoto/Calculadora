@@ -1,7 +1,7 @@
 *
 {
-margin:0.5px;
-padding:0.5px;
+margin:2px;
+padding:2px;
 }
 
 body
@@ -12,9 +12,20 @@ body
 
 #CUERPO
 {
+  background:#fffacd;
   width:1100px;
   margin:0px auto;
-  border: 1px solid blue sky;
+  border: 1.5px solid black;
+  color: black;
+}
+
+#TITULO
+{
+  background:#ffff00;
+  width:1100px;
+  margin:0px auto;
+  border: 1.5px solid black;
+  color: black;
 }
   
   
